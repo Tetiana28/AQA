@@ -5,7 +5,7 @@ public class Task2 {
 
     public static void main(String[] args) {
 
-        int[] intArray = {2, 5, 8, 0};
+        int[] intArray = {2, 5, 7, 0};
 
         if (intArray[0] % 2 == 0) {
             System.out.println("True");
